@@ -1,7 +1,6 @@
 {
   "plant_name": "park",
   "plant_number": "GR123123",
-  "group_name": "",
   "tracker_model": 1,
   "gps": {
     "fix": true,
