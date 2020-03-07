@@ -13,16 +13,12 @@
       "title": "Post 3"
     }
   ],
-  "comments": [
+  "gps": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+    "fix": true,
+    "latitude": 38.33,
+    "longitude": 23.22,
+    "altitude": 99.2
     }
   ],
   "profile": {
